@@ -21,9 +21,6 @@
   <a href="https://instagram.com/arturo.villa_" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
- <a href="[https://twitter.com/arturo.villa_](https://www.threads.net/@arturo.villa_)" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram"
-      alt="adampithewan" height="30" width="40" /></a>
   <a href="https://discord.gg/eljack13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eljack13" height="30" width="40" /></a>
 </p>
 
