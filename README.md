@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Arturo Villanueva</h1>
+<h1 align="center">Hi 👋, I'm Arturo Villanueva</h1>
 <h3 align="center">Student at UANL EIAO🌟.</h3>
 <br>
 <p> <center> <img align="center" src="https://github.com/user-attachments/assets/38622cb7-05dd-4f79-bb8e-1c8f4a783ddb" /></center> </p> 
